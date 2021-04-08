@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @numantariq435
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me email (numantariq435@gmail.com)
 
 <!---
