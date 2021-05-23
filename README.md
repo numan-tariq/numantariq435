@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @numantariq435
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Full Stack Development
 - 📫 How to reach me email (numantariq435@gmail.com)
 
 <!---
