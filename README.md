@@ -1,4 +1,4 @@
-# Hi there, I'm Numan | Fresh Grad | UCP'21
+# Hi there, I'm Numan | Full Stack Developer | UCP'21
 
 ### About Me:
   I am a CS graduate from `University of Central Punjab, Lahore`.
