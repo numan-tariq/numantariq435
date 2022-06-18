@@ -1,11 +1,10 @@
 ## Hi there, I'm Numan | Full Stack Developer
 
 ### About Me:
-  💻 Software Engineer at Phaedra Solutions — *April 2021 to Present*  
-  🎓 BS(CS) from `University of Central Punjab, Lahore`
+  💻 Software Engineer at Phaedra Solutions — *April 2021 to Present*.
+  🎓 BS(CS) from `University of Central Punjab, Lahore`.
   👷‍ I worked on leagues.gg, FlareMC, Bots, and multiple other startups / projects.
-  
-  🔭 I love learning new technologies and contributing to open source.
+  💻 I love learning new technologies and contributing to open source.
   
 🔭 I’m currently working in
 
