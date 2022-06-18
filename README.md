@@ -22,8 +22,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>
    </p>
-   <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafashykh&layout=compact&hide=html" title="mustafashykh" /></p>
 
 
 # How to reach me 📫:
